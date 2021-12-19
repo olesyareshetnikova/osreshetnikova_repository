@@ -1,4 +1,4 @@
-name: Python TZ_3
+name: Python application
 
 on:
   - push
